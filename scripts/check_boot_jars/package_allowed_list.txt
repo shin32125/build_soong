@@ -275,6 +275,9 @@ vendor.oplus.*
 com.oneplus.*
 vendor.oneplus.*
 
+# Nothing
+com.nothing
+
 # QC adds
 com.qualcomm.qti
 com.quicinc.tcmiface
